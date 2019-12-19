@@ -344,6 +344,10 @@ h2 {
   padding-left: 240px;
   padding-right: 240px;
 }
+.git {
+  float: right;
+  margin-right: 180px;
+}
 #main {
   text-align: center;
 }
