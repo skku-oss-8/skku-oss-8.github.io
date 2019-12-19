@@ -351,6 +351,13 @@ h2 {
   float: right;
   margin-right: 180px;
 }
+.container23 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 100px;
+  padding-right: 100px;
+  grid-gap: 10px;
+}
 #main {
   text-align: center;
 }
