@@ -309,6 +309,9 @@ h2 {
 }
 .content111 {
   font-size: 20px;
+  list-style: initial;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 .pfont {
   font-size: 25px;
